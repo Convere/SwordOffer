@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <stack>
 #include "BinaryTree.h"
@@ -24,4 +25,7 @@ void printList_zigzag(BinaryTree* node)
 		}
 	}
 }
-int mian()
+int main()
+{
+	return 0;
+}
